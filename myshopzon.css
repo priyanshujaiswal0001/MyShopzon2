@@ -1,0 +1,14 @@
+footer {
+    overflow: hidden;
+    background-color: brown;
+}
+footer a{
+    display: black;
+    color: white;
+    text-decoration: none;
+    padding: 14px 20px;
+    float: left;
+}
+.copyright {
+    float: right;
+}
