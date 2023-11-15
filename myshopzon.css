@@ -1,3 +1,26 @@
+nav{
+    background-color: red;
+    overflow: hidden;
+
+}
+nav a {
+    display: block;
+    color: white;
+    text-decoration: solid;
+    padding: 2px 2px;
+    float:initial;
+
+}
+navb{
+    background-color: grey;
+    
+}
+header h2{
+    color: white;
+}
+section{
+    background-color:grey;
+}
 footer {
     overflow: hidden;
     background-color: brown;
@@ -12,3 +35,5 @@ footer a{
 .copyright {
     float: right;
 }
+
+
